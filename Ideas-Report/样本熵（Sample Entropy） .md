@@ -1,6 +1,6 @@
 # Introduction to Sample Entropy 
 
-[样本熵](https://en.wikipedia.org/wiki/Sample_entropy)(sample entropy)是近似熵(approximate entropy)的改进方法，用于估计生物信号（time-series）的复杂度（complexity）。样本熵相较于近似熵算法的差别主要体现在，在计算template vector之间的差别时，近似熵要计算和自己的差别，而样本熵不需要。
+[样本熵](https://en.wikipedia.org/wiki/Sample_entropy)(sample entropy)是近似熵(approximate entropy)的改进方法，用于估计生物信号（time-series）的复杂度（complexity）。样本熵相较于近似熵算法的差别主要体现在，在计算template vector之间的差别时，近似熵要计算和自己的差别，而样本熵不需要。**样本熵越小，序列越可预测，越规律**。
 
 # Algorithm of Sample Entropy
 
