@@ -1,0 +1,15 @@
+t = [0 50 96 180 254 296 414 496];
+UL = [2.98 2.43 2.03 1.42 1.01 0.83 0.4 0.21];
+% scatter(t,UL);
+% lnUL = log(UL);
+% scatter(t,lnUL);
+% hold on;
+% p = polyfit(t,lnUL,1);
+% x = 0:0.1:500;
+% y = p(1).*x+p(2);
+% plot(x,y);
+% xlabel('t/us');
+% ylabel('lnU_{L}/v');
+% k = num2str(p(1));
+% b = num2str(p(2));
+% text(350,0.5,['y=' k 'x+' b]);
