@@ -1,4 +1,4 @@
-function fuzzyen = Fuzzy_Entropy( dim, r, data, tau )
+function fuzzyen = fuzzyEntropy( dim, r, data, tau )
 % FUZZYEN Fuzzy Entropy
 %   calculates the fuzzy entropy of a given time series data
 
